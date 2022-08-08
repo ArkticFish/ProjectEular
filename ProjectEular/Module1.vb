@@ -1,6 +1,6 @@
 ﻿Module Module1
 
-    Private program As New Class53()
+    Private program As New Class54()
 
     Sub Main()
 

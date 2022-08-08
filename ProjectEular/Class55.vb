@@ -8,6 +8,8 @@ Public Class Class55
 
         For n As BigInteger = 1 To 100
 
+
+
         Next
 
         Console.WriteLine(count)

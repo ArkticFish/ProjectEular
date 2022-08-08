@@ -24,9 +24,7 @@ Public Class Class53
     End Sub
 
     Private Function Notations(n As BigInteger, r As BigInteger) As BigInteger
-
         Return Fact(n) / (Fact(r) * Fact(n - r))
-
     End Function
 
     Private Function Fact(num As BigInteger) As BigInteger
