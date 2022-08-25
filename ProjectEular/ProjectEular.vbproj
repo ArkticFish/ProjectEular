@@ -121,7 +121,12 @@
     <Compile Include="Class53.vb" />
     <Compile Include="Class54.vb" />
     <Compile Include="Class55.vb" />
+    <Compile Include="Class56.vb" />
+    <Compile Include="Class57.vb" />
+    <Compile Include="Class58.vb" />
+    <Compile Include="Class59.vb" />
     <Compile Include="Class6.vb" />
+    <Compile Include="Class60.vb" />
     <Compile Include="Class7.vb" />
     <Compile Include="Class8.vb" />
     <Compile Include="Class9.vb" />

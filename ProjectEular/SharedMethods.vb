@@ -115,7 +115,7 @@ Public Class SharedMethods
         Return num1
     End Function
 
-    Public Shared Function GetLCD(numberList As List(Of Long)) As Long
+    Public Shared Function GetLcd(numberList As List(Of Long)) As Long
 
         Dim max = numberList.Max()
         Dim number = 0

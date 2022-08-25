@@ -10,7 +10,7 @@ Public Class Class5
             numberList.Add(index)
         Next
 
-        Console.WriteLine(SharedMethods.GetLCD(numberList))
+        Console.WriteLine(SharedMethods.GetLcd(numberList))
 
     End Sub
 
