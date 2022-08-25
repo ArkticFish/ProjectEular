@@ -127,6 +127,7 @@
     <Compile Include="Class59.vb" />
     <Compile Include="Class6.vb" />
     <Compile Include="Class60.vb" />
+    <Compile Include="Class61.vb" />
     <Compile Include="Class7.vb" />
     <Compile Include="Class8.vb" />
     <Compile Include="Class9.vb" />
